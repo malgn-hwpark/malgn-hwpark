@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=%EB%8B%A4%20%EC%99%80%EB%B4%90!!%20%EC%9D%BC%20%EB%8B%A4%20%EC%99%80%EB%B4%90!!&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=%EC%95%88%ED%95%A0%EA%BA%BC%EC%9E%84&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=드루와!!%20일%20드루와!!&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=안할꺼임&descAlignY=70)
